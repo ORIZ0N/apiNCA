@@ -1,7 +1,10 @@
 {
     "product":[
      {
-        "name": "Ai Aoshi"
+        "name": "Ai Aoshi",
+        "ciry": "Barcelona",
+        "phone": "612345678",
+        "web": "https://www.google.com"
      }   
     ]
 }
