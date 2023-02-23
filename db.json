@@ -2,9 +2,21 @@
     "product":[
      {
         "name": "Ai Aoshi",
-        "ciry": "Barcelona",
+        "city": "Barcelona",
         "phone": "612345678",
         "web": "https://www.google.com"
+     },
+     {
+        "name": "One Piece",
+        "city": "Barcelona",
+        "phone": "987654321",
+        "web": "https://www.facebook.com"
+     },
+     {
+        "name": "3D Kanajo:Real A Girlfriend",
+        "city": "Barcelona",
+        "phone": "673782924",
+        "web": "https://www.outlook.com"
      }   
     ]
 }
