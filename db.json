@@ -1,50 +1,5 @@
 {
     "product":[
-     {
-        "name": "The Balls Of The Elves",
-        "date": "Apr 22, 2022 to Sep 24, 2022",
-        "temporada": "temporada 1",
-        "descripcion": "El rey demonio había maldecido a la raza humana al eliminar su capacidad de producir niñas para que se extinguieran y los elfos frustraron su plan al darles unas bolas elficas(pelotas), lo que les haría convertirse en mujeres cuando se les quita las bolas.",
-        "image": "https://i.imgur.com/p0ju1JW.jpg",
-        "generos": "Romance",
-        "episodios": 24,
-        "calificacion": 4.1,
-        "backGround": "https://i.imgur.com/4sCw1AX.jpg",
-        "estado": "Ninguno",
-        "type": "Manga",
-        "phone": "612345678",
-        "web": "https://www.google.com"
-     },
-     {
-         "name": "Homeless",
-         "date": "Apr 22, 2022 to Sep 24, 2022",
-         "image": "https://i.imgur.com/QoPSWgb.jpg",
-         "temporada": "temporada 1",
-         "descripcion": "Haejoon Goh, que huyó de casa, y Eunyung Baek, el niño problemático que vive en una tienda de campaña. Estos dos, que se conocieron en terribles circunstancias, se ven obligados a vivir juntos en un dormitorio abandonado. Esta es una historia de crecimiento difícil entre dos personas que odian tanto el dormitorio como entre sí.",
-         "generos": "Comedia",
-         "episodios": 24,
-         "calificacion": 4.2,
-         "backGround": "https://i.imgur.com/OwqqnJm.jpg",
-         "estado": "Ninguno",
-         "type": "Manga",
-         "phone": "555-1234",
-         "web": "https://www.example.com"
-       },
-       {
-         "name": "El Troll Más Fuerte Del Mundo",
-         "date": "Apr 22, 2022 to Sep 24, 2022",
-         "temporada": "temporada 1",
-         "descripcion": "El juego más probabilístico del mundo. Ajin Electronics. Silicorp Industry. Argos Corporation. El primer juego de realidad virtual realizado por los principales conglomerados del mundo: Arcadia. [Bienvenido al fantástico mundo de Arcadia]. ¡Las locas historias de ese mundo se desarrollarán ahora.",
-         "image": "https://i.imgur.com/iUlfQRJ.jpg",
-         "generos": "Fantasia",
-         "episodios": 24,
-         "calificacion": 4.3,
-         "backGround": "https://i.imgur.com/BFgmogS.jpg",
-         "estado": "Ninguno",
-         "type": "Manga",
-         "phone": "1234567890",
-         "web": "https://www.example.com"
-       },
        {
         "name": "Munou na Nana",
         "date": "Apr 9, 2022 to Sep 24, 2022",
