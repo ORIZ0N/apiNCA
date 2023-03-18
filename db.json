@@ -1,21 +1,6 @@
 {
     "product":[
      {
-        "name": "The Balls Of The Elves",
-        "date": "Apr 22, 2022 to Sep 24, 2022",
-        "temporada": "temporada 1",
-        "descripcion ": "lorem ipsun",
-        "image": "https://i.imgur.com/p0ju1JW.jpg",
-        "generos": "Romance",
-        "episodios": 24,
-        "calificacion": 4.1,
-        "backGround": "https://i.imgur.com/4sCw1AX.jpg",
-        "estado": "Ninguno",
-        "type": "Manga",
-        "phone": "612345678",
-        "web": "https://www.google.com"
-     },
-     {
          "name": "Homeless",
          "date": "Apr 22, 2022 to Sep 24, 2022",
          "image": "https://i.imgur.com/QoPSWgb.jpg",
@@ -294,21 +279,6 @@
         "episodios": 24,
         "calificacion": 4.4,
         "backGround": "https://i.imgur.com/aWpEpoZ.jpg",
-        "estado": "Ninguno",
-        "type": "Anime",
-        "phone": "555-555-5555",
-        "web": "https://ejemplo.com"
-       },
-       {
-        "name": "Kinsou no Vermeil",
-        "date": "Apr 9, 2022 to Sep 24, 2022",
-        "image": "https://i.imgur.com/eWaXZfK.jpg",
-        "temporada": "temporada 1",
-        "descripcion": "lorem ipsun",
-        "generos": "Fantasia",
-        "episodios": 24,
-        "calificacion": 4.9,
-        "backGround": "https://i.imgur.com/gBModcN.jpg",
         "estado": "Ninguno",
         "type": "Anime",
         "phone": "555-555-5555",
