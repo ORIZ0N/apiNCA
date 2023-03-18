@@ -44,51 +44,6 @@
          "type": "Manga",
          "phone": "1234567890",
          "web": "https://www.example.com"
-       },
-       {
-        "name": "Vengador Sangriento",
-        "date": "Apr 22, 2022 to Sep 24, 2022",
-        "temporada": "temporada 1",
-        "descripcion": "Un día, 'Geum Maru' fue atacado por monstruos desconocidos recibió ayuda del vengador, 'Jay White', que persigue al mal. 'Geum Maru' utilizó ese incidente como premisa para unirse a la guerra que ha estado en curso durante mucho tiempo entre el Mal y los Vengadores...",
-        "image": "https://i.imgur.com/cunQ8vZ.jpg",
-        "generos": "Comedia",
-        "episodios": 24,
-        "calificacion": 4.4,
-        "backGround": "https://i.imgur.com/acM4xKJ.jpg",
-        "estado": "Ninguno",
-        "type": "Manga",
-        "phone": "601234567",
-        "web": "https://www.example.com"  
-       },
-       {
-        "name": "Holox Meeting!",
-        "date": "Apr 3, 2022 to Sep 24, 2022",
-        "temporada": "temporada 1",
-        "descripcion ": "Manga oficial por parte de Hololive! Esta es la trayectoria que siguió la famosa Sociedad Secreta HoloX hasta su debut. ¿¡Cómo es que estas chicas que aspiraban a conquistar el mundo terminaron siendo vtubers!.",
-        "image": "https://i.imgur.com/AlHqsgs.jpg",
-        "generos": "Fantasia",
-        "episodios": 24,
-        "calificacion": 4.5,
-        "backGround": "https://i.imgur.com/WpLYZiL.jpg",
-        "estado": "Ninguno",
-        "type": "Manga",
-        "phone": "612345678",
-        "web": "https://www.google.com"   
-       },
-       {
-        "name": "Munou na Nana",
-        "date": "Apr 9, 2022 to Sep 24, 2022",
-        "image": "https://i.imgur.com/p0ju1JW.jpg",
-        "temporada": "temporada 1",
-        "descripcion": "Es el año 20XX. La Tierra fue asediada por monstruos autodeclarados como “enemigos de la humanidad”. Para afrontar esta amenaza, se establecieron escuelas especiales que entrenan adolescentes con extraordinarias habilidades. Estas personas, quienes son conocidas como “Talentosos”, poseen habilidades que desafían las leyes de la realidad y, entre ellos, se encuentra un caso atípico, un individuo que fue enviado a una de esas escuelas pero que no posee ninguna habilidad especial. Así comienza la historia de nuestra protagonista quien, en vez de utilizar la fuerza bruta, utilizará su inteligencia y su habilidad de manipulación para derrotar a sus enemigos.",
-        "generos": "Fantasia",
-        "episodios": 24,
-        "calificacion": 4.9,
-        "backGround": "https://i.imgur.com/l43lpgP.jpg",
-        "estado": "Ninguno",
-        "type": "Anime",
-        "phone": "123-456-7890",
-        "web": "www.anime20.com"
        }
     ]
 }
