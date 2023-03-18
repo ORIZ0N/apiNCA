@@ -118,8 +118,9 @@
         "estado": "Ninguno",
         "type": "Manga",
         "phone": "512345678",
-        "web": "https://www.aharensan.com"
+        "web": "https://www.aharensan.com"   
        },
+       {
         "name": "Overgeared",
         "date": "Apr 16, 2022 to Sep 24, 2022",
         "temporada": "temporada 1",
@@ -133,20 +134,6 @@
         "type": "Manga",
         "phone": "555-1234",
         "web": "https://www.overgearedmanga.com"
-       {
-        "name": "Inu To Yuusha Wa Kazaranai",
-        "date": "Apr 15, 2022 to Sep 24, 2022",
-        "image": "https://i.imgur.com/UdiXhIx.jpg",
-        "temporada": "temporada 1",
-        "descripcion": "lorem ipsun",
-        "generos": "Accion",
-        "episodios": 24,
-        "calificacion": 5.0,
-        "backGround": "https://i.imgur.com/OupsOTc.jpg",
-        "estado": "Ninguno",
-        "type": "Manga"
-        "phone": "555-1234",
-        "web": "https://www.manga.com"
        },
        {
         "name": "MI HIJA ES EL JEFE FINAL",
@@ -322,21 +309,6 @@
         "episodios": 24,
         "calificacion": 4.9,
         "backGround": "https://i.imgur.com/gBModcN.jpg",
-        "estado": "Ninguno",
-        "type": "Anime",
-        "phone": "555-555-5555",
-        "web": "https://ejemplo.com"
-       },
-       {
-        "name": "Yofukashi no Uta",
-        "date": "Apr 9, 2022 to Sep 24, 2022",
-        "image": "https://i.imgur.com/Q0aC8pz.jpg",
-        "temporada": "temporada 1",
-        "descripcion": "lorem ipsun",
-        "generos": "Romance",
-        "episodios": 24,
-        "calificacion": 4.5,
-        "backGround": "https://i.imgur.com/7b7a3ck.jpg",
         "estado": "Ninguno",
         "type": "Anime",
         "phone": "555-555-5555",
