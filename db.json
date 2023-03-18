@@ -46,36 +46,6 @@
          "web": "https://www.example.com"
        },
        {
-        "name": "Vengador Sangriento",
-        "date": "Apr 22, 2022 to Sep 24, 2022",
-        "temporada": "temporada 1",
-        "descripcion": "Un día, 'Geum Maru' fue atacado por monstruos desconocidos recibió ayuda del vengador, 'Jay White', que persigue al mal. 'Geum Maru' utilizó ese incidente como premisa para unirse a la guerra que ha estado en curso durante mucho tiempo entre el Mal y los Vengadores...",
-        "image": "https://i.imgur.com/cunQ8vZ.jpg",
-        "generos": "Comedia",
-        "episodios": 24,
-        "calificacion": 4.4,
-        "backGround": "https://i.imgur.com/acM4xKJ.jpg",
-        "estado": "Ninguno",
-        "type": "Manga",
-        "phone": "601234567",
-        "web": "https://www.example.com"  
-       },
-       {
-        "name": "Holox Meeting!",
-        "date": "Apr 3, 2022 to Sep 24, 2022",
-        "temporada": "temporada 1",
-        "descripcion ": "Manga oficial por parte de Hololive! Esta es la trayectoria que siguió la famosa Sociedad Secreta HoloX hasta su debut. ¿¡Cómo es que estas chicas que aspiraban a conquistar el mundo terminaron siendo vtubers!.",
-        "image": "https://i.imgur.com/AlHqsgs.jpg",
-        "generos": "Fantasia",
-        "episodios": 24,
-        "calificacion": 4.5,
-        "backGround": "https://i.imgur.com/WpLYZiL.jpg",
-        "estado": "Ninguno",
-        "type": "Manga",
-        "phone": "612345678",
-        "web": "https://www.google.com"   
-       },
-       {
         "name": "Munou na Nana",
         "date": "Apr 9, 2022 to Sep 24, 2022",
         "image": "https://i.imgur.com/p0ju1JW.jpg",
@@ -119,36 +89,6 @@
         "type": "Anime",
         "phone": "555-1234",
         "web": "https://shakunetsukabaddi.com"
-       },
-       {
-        "name": "Serei Gensouki",
-        "date": "Apr 9, 2022 to Sep 24, 2022",
-        "image": "https://i.imgur.com/YbYVLOX.jpg",
-        "temporada": "temporada 1",
-        "descripcion": "Su vida pasada y su vida actual se cruzan: ¡un chico con recuerdos de dos vidas se enfrenta a su destino! Después de que su madre fuera asesinada siendo pequeño, el huérfano Rio luchó con todas sus fuerzas para sobrevivir en los barrios bajos. Un día se despierta con los recuerdos de Haruto Amakwa, quien murió en un accidente mientras soñaba con reunirse con su amigo de la infancia, y Rio se da cuenta de que se ha reencarnado en un mundo de espadas y brujería. No solo eso, sino que, tras ayudar a detener un intento de secuestro de una princesa con la que se tropezó, acaba inscrito en una famosa escuela donde se reúnen los hijos de la nobleza… Rio intentará ascender desde lo más bajo de una sociedad jerarquizada y vivirá nuevos encuentros y despedidas mientras lucha por superar el destino.",
-        "generos": "Romance",
-        "episodios": 24,
-        "calificacion": 4.7,
-        "backGround": "https://i.imgur.com/DmCLLVw.jpg",
-        "estado": "Ninguno",
-        "type": "Anime",
-        "phone": "555-4321",
-        "web": "https://sereigensouki.com"
-       },
-       {
-        "name": "Ousama Ranking",
-        "date": "Apr 9, 2022 to Sep 24, 2022",
-        "image": "https://i.imgur.com/OHySC30.jpg",
-        "temporada": "temporada 1",
-        "descripcion": "La historia se centra en Bojji, un débil y sordo príncipe que no puede sostener incluso una espada para niños. Como el primogénito, sostiene su enorme deseo de convertirse en el más poderoso rey del mundo. No obstante, las personas a su alrededor se refieren despectivamente a él y no tienen intención alguna de aceptarlo como rey. Bojji consigue su primer amigo, llamado Kage (sombra), literalmente una sombra en el suelo que de alguna manera puede entender a Bojji. De hecho, Kage es un sobreviviente del clan de asesinos “Kage” que fue eliminado, por lo que ya no es un asesino y sobrevive robando. La historia seguirá a Bojji haciendo su propio camino hacia su deseo.",
-        "generos": "Comedia",
-        "episodios": 24,
-        "calificacion": 4.0,
-        "backGround": "https://i.imgur.com/pXyFhda.jpg",
-        "estado": "Ninguno",
-        "type": "Anime",
-        "phone": "555-1234",
-        "web": "www.anime16.com"
        }
     ]
 }
